@@ -6,6 +6,9 @@ chicken biryani
 mutton biryani
 kofta
 
+beans 
+pizza
+
 
 
 thank you :)
